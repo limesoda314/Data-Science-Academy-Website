@@ -1,3 +1,8 @@
+<script> 
+	import Navbar from "./Components/Navigation.svelte";
+	
+</script>
+
 <svelte:head> 
 
 <title>DSA at UCR</title>
@@ -6,15 +11,7 @@
 
 
 <body> 
-	<div class="navbar">
-		Home
-		About
-		Past Cohorts
-		DSA Leaders (maybe label it Meet the Team) 
-		Youtube 
-		Contact Us
-		Join US 
-	</div>
+	<Navbar/>
 
 	<div class="hero"> 
 		<div class="container"> 
@@ -24,7 +21,6 @@
 		</div>
  	</div>
 
-	
 
 	<div class="container">
 		<div class="article">
