@@ -1,20 +1,14 @@
+<script>
+	import Navigation from "./Components/Navigation.svelte"
+</script>
+
 <svelte:head> 
-
-<title>DSA at UCR</title>
-
+	<title>DSA at UCR</title>
+	
 </svelte:head>
 
-
 <body> 
-	<div class="navbar">
-		Home
-		About
-		Past Cohorts
-		DSA Leaders (maybe label it Meet the Team) 
-		Youtube 
-		Contact Us
-		Join US 
-	</div>
+	<Navigation/>
 
 	<div class="hero"> 
 		<div class="container"> 
@@ -23,9 +17,6 @@
 			</h1>
 		</div>
  	</div>
-
-	
-
 	<div class="container">
 		<div class="article">
 
