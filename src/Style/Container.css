@@ -5,16 +5,3 @@
 	border-color: black; 
 	background-color: ghostwhite;
 }
-
-
-.article {
-	color: black; 
-	margin-left: 200px;
-	margin-right: 200px; 
-	padding: 20px; 
-
-	border: solid;
-	border-color: red; 
-	background-color: lightgoldenrodyellow;
-
-}
