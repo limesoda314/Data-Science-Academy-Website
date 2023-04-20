@@ -1,17 +1,14 @@
-<script> 
-	import Navbar from "./Components/Navigation.svelte";
-	
+<script>
+	import Navigation from "./Components/Navigation.svelte"
 </script>
 
 <svelte:head> 
-
-<title>DSA at UCR</title>
-
+	<title>DSA at UCR</title>
+	
 </svelte:head>
 
-
 <body> 
-	<Navbar/>
+	<Navigation/>
 
 	<div class="hero"> 
 		<div class="container"> 
@@ -20,8 +17,6 @@
 			</h1>
 		</div>
  	</div>
-
-
 	<div class="container">
 		<div class="article">
 
