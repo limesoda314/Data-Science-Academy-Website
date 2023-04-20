@@ -1,10 +1,10 @@
 .banner {
     width: 100%; 
     margin-bottom: 50px;    
-    padding: 100px 0 100px 0; 
+    padding: 0; 
     overflow-x: hidden; 
-    /* border: solid black;  */
-    background-color: lightblue; 
+    /* border: solid black; 
+    background-color: lightblue;  */
 }
 
 
