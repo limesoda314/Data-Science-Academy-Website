@@ -5,7 +5,8 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "start": "sirv public --no-clear"
+    "start": "sirv public -s --no-clear",
+    "start:dev": "sirv public --dev -s"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",
@@ -20,6 +21,7 @@
   "dependencies": {
     "react-carousel-minimal": "^1.4.1",
     "sirv-cli": "^2.0.0",
-    "svelte-carousel": "^1.0.25"
+    "svelte-carousel": "^1.0.25",
+    "svelte-routing": "^1.6.0"
   }
 }
