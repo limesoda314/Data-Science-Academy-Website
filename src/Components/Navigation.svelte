@@ -1,9 +1,7 @@
 <script>
-	import Navigation from './Navigation.svelte';
-    import css from "./../Style/Navigation.css";
+    import './../Style/Navigation.css';
     let logo = "./images/DSA@UCR_Logo.png";
 </script>
-
 
 <nav class="navbar">
     <ul class="nav_items">
@@ -13,7 +11,6 @@
              <div class="menu">
                 <li class = nav_link><a href="/">Home</a></li>
                 <li class = nav_link><a href="/">About DSA</a></li>
-                <!-- <li class = nav_link><a href="/">ShowCase</a></li> -->
                 <li class = nav_link><a href="/">Show Case</a></li>
                 <li class = nav_link><a href="/">Meet the Team</a></li>
                 <li class = nav_link><a href="/">Contact Us</a></li>

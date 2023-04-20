@@ -18,6 +18,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "sirv-cli": "^2.0.0"
+    "react-carousel-minimal": "^1.4.1",
+    "sirv-cli": "^2.0.0",
+    "svelte-carousel": "^1.0.25"
   }
 }
