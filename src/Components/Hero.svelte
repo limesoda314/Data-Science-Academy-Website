@@ -5,15 +5,11 @@
 </script>
 
 <div class="banner" id="Home"> 
-    
-
     <Carousel
         autoplay 
         autoplayDuration={5000}
         let:showPrevPage
-        let:showNextPage
-    
-        
+        let:showNextPage        
     >
         <div slot="prev" on:click={showPrevPage} class="custom-arrow custom-arrow-prev">
             <i />
@@ -27,5 +23,4 @@
             <i />
         </div>
     </Carousel>
-    
 </div>
