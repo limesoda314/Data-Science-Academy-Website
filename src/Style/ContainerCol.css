@@ -1,0 +1,12 @@
+.containerCol {
+	margin: 20px;
+	padding: 20px; 
+	/* border: solid; */
+	/* border-color: black;  */
+	background-color: ghostwhite;
+	display: flex; 
+	flex-flow: row wrap; 
+	justify-content: center; 
+	align-items: flex-start; 
+	gap: 20px; 
+}

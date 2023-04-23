@@ -1,14 +1,20 @@
-.article {
+.articleCol{
+
 	color: black;
-    padding: 20px; 
+	/* margin-left: 200px;
+	margin-right: 200px;   */
+	
+	width: 40%; 
+	padding: 20px; 
 	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 	background-color: white;
 	font-size: 20px;
+	
 }
 
 @media (max-width: 1000px)
 {
-	.article {
+	.articleCol {
     	margin-left: 0px;
 		margin-right: 0px; 
 	}
