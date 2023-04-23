@@ -26,5 +26,3 @@
 	</Article>
 
 </Container>
-
-<Footer/>
