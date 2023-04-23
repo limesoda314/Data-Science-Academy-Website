@@ -9,6 +9,7 @@
 	import ContactPage from "./routes/ContactPage.svelte";
 	import PeoplePage from "./routes/PeoplePage.svelte";
 	import ShowCasePage from "./routes/ShowCasePage.svelte";
+	import Footer from "./Components/Footer.svelte";
 
 	// Takes care of the routing
 	import { Router, Route } from "svelte-routing";
@@ -29,4 +30,5 @@
 		<Route path="/people"><PeoplePage /></Route>
 		<Route path="/showcase"><ShowCasePage /></Route>
 	</div>
+	<Footer/>
 </Router>
