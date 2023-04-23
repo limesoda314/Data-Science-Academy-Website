@@ -3,8 +3,17 @@
 	margin-left: 200px;
 	margin-right: 200px; 
 	padding: 20px; 
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+	/* border: solid; */
+	/* border-color: red;  */
+	background-color: white;
+	font-size: 20px;
+}
 
-	border: solid;
-	border-color: red; 
-	background-color: lightgoldenrodyellow;
+@media (max-width: 1000px)
+{
+	.article {
+    	margin-left: 0px;
+		margin-right: 0px; 
+	}
 }
