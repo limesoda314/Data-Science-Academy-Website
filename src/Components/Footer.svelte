@@ -5,11 +5,7 @@
 <div class="footer">
 
     <div class="container">
-        Data Science Academy 
-    </div>
-
-    <div class="container">
-        Testing
+        Copyright © 2023 Data Science Academy. All Rights Reserved.
     </div>
 
 </div>
