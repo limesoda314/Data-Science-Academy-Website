@@ -43,5 +43,3 @@
 	</ArticleCol>
 
 </ContainerCol>
-
-<Footer/>
