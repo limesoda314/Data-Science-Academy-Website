@@ -20,7 +20,7 @@
 	<title>DSA at UCR</title>
 </svelte:head>
 
-<Router basepath="/">
+<Router>
 	<Navigation/>
 	<div>
 		<Route path="/home"><HomePage /></Route>
@@ -28,6 +28,7 @@
 		<Route path="/contact"><ContactPage /></Route>
 		<Route path="/people"><PeoplePage /></Route>
 		<Route path="/showcase"><ShowCasePage /></Route>
+		<Route path="/*"><HomePage /></Route>
 		<Route path="/"><HomePage /></Route>
 	</div>
 	<Footer/>
