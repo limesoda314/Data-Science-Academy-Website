@@ -23,11 +23,11 @@
 <Router basepath="/">
 	<Navigation/>
 	<div>
-		<Route path="home"><HomePage /></Route>
-		<Route paht="about"><AboutPage /></Route>
-		<Route path="contact"><ContactPage /></Route>
-		<Route path="people"><PeoplePage /></Route>
-		<Route path="showcase"><ShowCasePage /></Route>
+		<Route path="/home"><HomePage /></Route>
+		<Route paht="/about"><AboutPage /></Route>
+		<Route path="/contact"><ContactPage /></Route>
+		<Route path="/people"><PeoplePage /></Route>
+		<Route path="/showcase"><ShowCasePage /></Route>
 		<Route path="/"><HomePage /></Route>
 	</div>
 	<Footer/>
