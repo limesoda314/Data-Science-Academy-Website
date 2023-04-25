@@ -3,11 +3,6 @@
   publish = "build"
 
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-
-[[redirects]]
   from = "/testing"
   to = "/"
   status = 200
