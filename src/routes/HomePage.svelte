@@ -50,6 +50,8 @@
 		<img src="https://placehold.co/600x400" alt="Placeholder">
 
 	</ArticleCol>
+
+
 	<ArticleCol>
 		<h1> Activities </h1>
 
@@ -60,7 +62,6 @@
 			We therefore host a variety of activities for students to do in between the lessons and main Data Science learning. With these activities, we hope 
 			that students are able to get away from the seriousness of Data Science and programming, and reflect on how these concepts can be applied in a fun,
 			entertaining way.
-			
 		</p>
 
 		<br/>
@@ -104,6 +105,7 @@
 	<ArticleCol>
 		<h2>Testimonial</h2>
 	</ArticleCol>
+
 	<ArticleCol>
 		<h2>Testimonial</h2>
 	</ArticleCol>

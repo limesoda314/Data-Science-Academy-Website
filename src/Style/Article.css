@@ -4,6 +4,7 @@
 	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 	background-color: white;
 	font-size: 20px;
+	width: 100%;
 }
 
 @media (max-width: 1000px)
