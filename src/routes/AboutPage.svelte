@@ -1,7 +1,6 @@
 <script>
     import Container from "../Components/Container.svelte";
     import Article from "../Components/Article.svelte";
-
     import "../Style/Container.css";
 </script>
 

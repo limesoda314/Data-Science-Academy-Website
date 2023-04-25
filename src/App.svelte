@@ -14,17 +14,19 @@
 	// Takes care of the routing
 	import { Router, Route } from "svelte-routing";
 
+	export let url = "";
+
 </script>
 
 <svelte:head> 
 	<title>DSA at UCR</title>
 </svelte:head>
 
-<Router>
+<Router url="{url}">
 	<Navigation/>
 	<div>
 		<Route path="/home"><HomePage /></Route>
-		<Route paht="/about"><AboutPage /></Route>
+		<Route path="/about"><AboutPage /></Route>
 		<Route path="/contact"><ContactPage /></Route>
 		<Route path="/people"><PeoplePage /></Route>
 		<Route path="/showcase"><ShowCasePage /></Route>
