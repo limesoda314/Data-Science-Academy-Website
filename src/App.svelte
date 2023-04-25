@@ -29,7 +29,6 @@
 		<Route path="/contact"><ContactPage /></Route>
 		<Route path="/people"><PeoplePage /></Route>
 		<Route path="/showcase"><ShowCasePage /></Route>
-		<Route path="/*"><HomePage /></Route>
 	</div>
 	<Footer/>
 </Router>
