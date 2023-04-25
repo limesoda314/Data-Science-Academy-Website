@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "rollup -c -w && echo '/* /index.html' | cat > build/_redirects",
+    "build": "rollup -c && echo '/* /index.html' | cat > build/_redirects",
     "dev": "rollup -c -w",
     "start": "sirv public -s --no-clear",
     "start:dev": "sirv public --dev -s"
