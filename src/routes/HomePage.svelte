@@ -4,6 +4,7 @@
 	import ContainerCol from "../Components/ContainerCol.svelte";
     import Article from "../Components/Article.svelte";
 	import ArticleCol from "../Components/ArticleCol.svelte";
+	import "../Style/ContentImages.css";
 </script>
 
 <Hero/>
@@ -36,7 +37,7 @@
 
 		<br/>
 
-		<img src="https://placehold.co/600x400" alt="Placeholder">
+		<img class="cont" src="https://placehold.co/600x400" alt="Placeholder">
 
 		<p>
 			These lessons are produced both by professor Paea LePendu, as well as some of our DSA Leaders. These lessons include skillsets such as basic Python
@@ -47,7 +48,7 @@
 
 		<br/>
 
-		<img src="https://placehold.co/600x400" alt="Placeholder">
+		<img style="width:100px" src="https://placehold.co/600x400" alt="Placeholder">
 
 	</ArticleCol>
 
@@ -85,10 +86,51 @@
 <Container>
 	<Article>
 		<h1>Campus Tour</h1>
+		<br/>
+		<p>
+			During our breaks and activities, we often give students a small but quite thorough tour of UC Riverside. Since the program takes place close to the center
+			of campus, we have plenty of time to cover the most important spots. The purpose of this activity is to give students an idea of what they will expect if
+			they study at UC Riverside. We emphasize the engineering side of campus, highlighting important buildings, facts, and accounts of our engineering experience
+			at UC Riverside.
+
+			<br/><br/>
+			Our campus tours are led by the DSA Leaders, where they the role of guides who will take you on a journey through the university's history, academic programs,
+			research facilities, and cultural landmarks. You'll have the chance to see some of the most iconic locations on campus, including the Bell Tower,
+			the Orbach Science Library, and the Arts Building. And although we do not have the chance to cover every side of campus, we give a whollistic view of college life
+			at UC Riverside.
+
+			<br/><br/>
+
+			<ContainerCol>
+				<ArticleCol>
+					<center>
+						<img src="https://placehold.co/600x400" alt="Placeholder">
+					</center>
+				</ArticleCol>
+
+				<ArticleCol>
+					<center>
+						<img src="https://placehold.co/600x400" alt="Placeholder">
+					</center>
+				</ArticleCol>
+			</ContainerCol>
+
+		</p>
+
+		<p>
+			Whether you're a prospective student, a current student of the Data Science Academy, or simply curious about the university, our academy tours are a fantastic way to
+			experience the vibrant and dynamic community at UCR.
+		</p>
+
 	</Article>
 
 	<Article>
 		<h1>DSA Leaders</h1>
+
+		<p>
+			Please visit the <a href="/people">People</a> page to learn more about the DSA Leaders, as well as the mentors and instructors.
+		</p>
+
 	</Article>
 
 </Container>
@@ -97,16 +139,40 @@
 	<Article>
 		<h1>Student Testimonials</h1>
 		<br/>
-		<p>Testing</p>
+		<p>
+			Throughout the years of the program's existence, we have collected a plethora of student testimonials that showcase how students feel about the Data Science Academy.
+			These testimonials give us some insight into how alumni of the Data Science Academy feel about the program, the lessons, activities, and DSA Leaders.
+		</p>
 	</Article>
 </Container>
 
 <ContainerCol>
 	<ArticleCol>
-		<h2>Testimonial</h2>
+		<center>
+			<h2>Testimonial</h2>
+			<br/>
+			<center>
+				<p><b>"</b></p>
+				<p>
+					I learned a lot about what computers can do to analyze data.
+				</p>
+				<p><b>"</b></p>
+			</center>
+		</center>
 	</ArticleCol>
 
 	<ArticleCol>
-		<h2>Testimonial</h2>
+		<center>
+			<h2>Testimonial</h2>
+			<br/>
+			<center>
+				<p><b>"</b></p>
+				<p>
+					Thank you for this amazing opportunity! I've always wanted to learn how to code and analyze and visualize data, but didn't know where to begin. This was the
+					perfect experience to step foot in the door of programming with Python and establishing a future career as a computational neuroscientist or a bioinformatic.
+				</p>
+				<p><b>"</b></p>
+			</center>
+		</center>
 	</ArticleCol>
 </ContainerCol>
