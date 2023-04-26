@@ -37,7 +37,7 @@
 
 		<br/>
 
-		<img class="contentimage" src="/images/content/homepage_lessons1.jpg" alt="Placeholder">
+		<img class="contentimage" src="/images/content/homepage_lessons1.jpg" loading="lazy" alt="Placeholder">
 
 		<br/><br/>
 
@@ -50,7 +50,7 @@
 
 		<br/>
 
-		<img class="contentimage" src="/images/content/homepage_lessons2.jpg" alt="Placeholder">
+		<img class="contentimage" src="/images/content/homepage_lessons2.jpg" loading="lazy" alt="Placeholder">
 
 	</ArticleCol>
 
@@ -69,7 +69,7 @@
 
 		<br/>
 
-		<img class="contentimage" src="/images/content/homepage_activities1.jpg" alt="Placeholder">
+		<img class="contentimage" src="/images/content/homepage_activities1.jpg" loading="lazy" alt="Placeholder">
 
 		<br/><br/>
 
@@ -81,7 +81,7 @@
 
 		<br/>
 
-		<img class="contentimage" src="/images/content/homepage_activities2.jpg" alt="Placeholder">
+		<img class="contentimage" src="/images/content/homepage_activities2.jpg" loading="lazy" alt="Placeholder">
 
 	</ArticleCol>
 
@@ -108,13 +108,13 @@
 			<ContainerCol>
 				<ArticleCol>
 					<center>
-						<img class="contentimage" src="/images/content/homepage_tour1.jpg" alt="Placeholder">
+						<img class="contentimage" src="/images/content/homepage_tour1.jpg" loading="lazy" alt="Placeholder">
 					</center>
 				</ArticleCol>
 
 				<ArticleCol>
 					<center>
-						<img class="contentimage" src="/images/content/homepage_tour2.jpg" alt="Placeholder">
+						<img class="contentimage" src="/images/content/homepage_tour2.jpg" loading="lazy" alt="Placeholder">
 					</center>
 				</ArticleCol>
 			</ContainerCol>
