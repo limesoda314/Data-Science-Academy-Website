@@ -37,7 +37,9 @@
 
 		<br/>
 
-		<img class="cont" src="https://placehold.co/600x400" alt="Placeholder">
+		<img class="contentimage" src="/images/content/homepage_lessons1.jpg" alt="Placeholder">
+
+		<br/><br/>
 
 		<p>
 			These lessons are produced both by professor Paea LePendu, as well as some of our DSA Leaders. These lessons include skillsets such as basic Python
@@ -48,7 +50,7 @@
 
 		<br/>
 
-		<img style="width:100px" src="https://placehold.co/600x400" alt="Placeholder">
+		<img class="contentimage" src="/images/content/homepage_lessons2.jpg" alt="Placeholder">
 
 	</ArticleCol>
 
@@ -67,7 +69,9 @@
 
 		<br/>
 
-		<img src="https://placehold.co/600x400" alt="Placeholder">
+		<img class="contentimage" src="/images/content/homepage_activities1.jpg" alt="Placeholder">
+
+		<br/><br/>
 
 		<p>
 			In the past, these activities have included fun icebreakers, tours of the University of California, Riverside, fun implementations of Data Science
@@ -77,7 +81,7 @@
 
 		<br/>
 
-		<img src="https://placehold.co/600x400" alt="Placeholder">
+		<img class="contentimage" src="/images/content/homepage_activities2.jpg" alt="Placeholder">
 
 	</ArticleCol>
 
@@ -104,13 +108,13 @@
 			<ContainerCol>
 				<ArticleCol>
 					<center>
-						<img src="https://placehold.co/600x400" alt="Placeholder">
+						<img class="contentimage" src="/images/content/homepage_tour1.jpg" alt="Placeholder">
 					</center>
 				</ArticleCol>
 
 				<ArticleCol>
 					<center>
-						<img src="https://placehold.co/600x400" alt="Placeholder">
+						<img class="contentimage" src="/images/content/homepage_tour2.jpg" alt="Placeholder">
 					</center>
 				</ArticleCol>
 			</ContainerCol>
@@ -126,7 +130,7 @@
 
 	<Article>
 		<h1>DSA Leaders</h1>
-
+		<br/>
 		<p>
 			Please visit the <a href="/people">People</a> page to learn more about the DSA Leaders, as well as the mentors and instructors.
 		</p>
