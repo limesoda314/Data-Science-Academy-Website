@@ -23,8 +23,9 @@
     height: 100%; 
     width: 50%;
     overflow: hidden;
-    padding: 50px;
-    font-size: 50px;
+    padding: 2%;
+    padding-top: 5%;
+    font-size: 200%;
     font-weight: bold;
     color: white; 
     background-image: linear-gradient(to right, black, rgba(0, 0, 0, 0.869), rgba(0, 0, 0, 0.686), rgba(128, 128, 128, 0)); 
