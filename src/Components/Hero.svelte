@@ -7,7 +7,7 @@
         { caption: "Winston Chung Hall Photoshoot", src: "images/hero/img1.jpg"},
         { caption: "Professor LePendu teaching students about data cleaning", src: "images/hero/img2.jpg"},
         { caption: "All three Data Science Summer 2022 programs at once!", src: "images/hero/img3.jpg"},
-        { caption: "Inpiration", src: "images/hero/img4.jpg"},
+        { caption: "Inspiration", src: "images/hero/img4.jpg"},
         { caption: "Analysis", src: "images/hero/img5.jpg"},
         { caption: "Collaboration", src: "images/hero/img6.jpg"},
         { caption: "A tour of University of California, Riverside campus", src: "images/hero/img7.jpg"},
