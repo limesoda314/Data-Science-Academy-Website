@@ -14,7 +14,7 @@
 		<h1>Data Science Academy @ UCR</h1>
 		<br/>
 		<p>
-			Hosted at the University of California, Riverside, the Data Science Academy was started by professor Paea LePendu. Our aim is to introduce one of
+			Hosted at the University of California, Riverside, the Data Science Academy was started by Professor Paea LePendu. Our aim is to introduce one of
 			the most popular and insightful field in Computer Science to <b>K-12 students</b>. Please read more about this program in the
 			<a href="/about">About DSA</a> page.
 			
@@ -42,7 +42,7 @@
 		<br/><br/>
 
 		<p>
-			These lessons are produced both by professor Paea LePendu, as well as some of our DSA Leaders. These lessons include skillsets such as basic Python
+			These lessons are produced both by Professor Paea LePendu, as well as some of our DSA Leaders. These lessons include skillsets such as basic Python
 			programming, learning how to analyze datasets, Machine Learning basics, word cloud generation, data visualization, as well as chat bots. With these
 			lessons, we aim to not only provide the breadth of knowledge that students need to succeed in a Data Science career, but we also wish to motivate
 			students to pursue a Computer Science or Data Science profession.
