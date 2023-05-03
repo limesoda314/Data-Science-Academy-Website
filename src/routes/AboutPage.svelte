@@ -116,12 +116,20 @@
     <Article>
         <h1>Activities</h1>
         <br/>
+        <p>
+            We host a variety of activities in the Data Science Academy. The purpose of these activities is to entertain students before and after each lesson. We have found
+            that these activities help students ease into the program. For instance, the tour of the campus gives students a well-deserved break from the intensity of the main
+            lesson, while also introducing them to life at UC Riverside.
+        </p>
     </Article>
 
-    <Article>
+    <!-- <Article>
         <h1>Cohorts</h1>
         <br/>
-    </Article>
+        <p>
+
+        </p>
+    </Article> -->
 
 </Container>
 
