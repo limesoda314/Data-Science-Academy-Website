@@ -14,7 +14,7 @@
              <div class="menu">
                 <li class = nav_link><Link to="/home">Home</Link></li>
                 <li class = nav_link><Link to="/about">About DSA</Link></li>
-                <li class = nav_link><Link to="/showcase">Show Case</Link></li>
+                <!-- <li class = nav_link><Link to="/showcase">Show Case</Link></li> -->
                 <li class = nav_link><Link to="/people">Meet the Team</Link></li>
                 <li class = nav_link><Link to="/contact">Contact Us</Link></li>
             </div>
