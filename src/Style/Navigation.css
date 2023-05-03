@@ -11,6 +11,10 @@
     color: rgb(27, 12, 142);
 }
 
+.nav_link a:active {
+    color: rgb(27, 12, 142);
+}
+
 .nav_link {
     list-style: none;
 }
@@ -73,6 +77,8 @@ input[type=checkbox]
         left: 0;
         text-align: center;
         padding: 16px 0;
+        z-index: 100; 
+        overflow: hidden;
     }
     .menu .nav_link a:hover {
         font-weight: bolder;
