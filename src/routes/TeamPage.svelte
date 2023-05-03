@@ -125,7 +125,10 @@
             <br/>
             <h4>Third-year Computer Science Student at UC Riverside</h4>
             <p>
-                I usually only go by Edgar. I am passionate about Computer Science and currently exploring my options within the field.
+                My name is Edgarventura Melendrez but I prefer if you just called me Edgar. I got introduced to computer science
+                in 6th grade thanks to a program very similar to Data Science Academy. Having the opportunity to now volunteer and
+                teach for Data Sciences Academy gives me great joy because I am giving others the same style of introduction that was
+                given too me. And I am glad to be able to give back to my community in the same ways that helped me!
             </p>
         </div>
 
