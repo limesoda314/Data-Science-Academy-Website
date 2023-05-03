@@ -25,7 +25,6 @@
                 Valley that secured $2M in venture seed funding.
             </p>
         </div>
-
     </ProfileCard>
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_mariam.jpg" loading="lazy" alt="Mariam">
@@ -41,6 +40,10 @@
         </div>
 
     </ProfileCard>
+
+</ProfileContainer>
+<ProfileContainer>
+    
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_shirin.jpg" loading="lazy" alt="Shirin">
         <div class="profile-caption">
