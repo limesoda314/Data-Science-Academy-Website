@@ -1,0 +1,15 @@
+.profileCard {
+    background-color: antiquewhite;
+    border: grey solid; 
+    padding: 20px; 
+    flex: 1 1 80px;
+}
+
+.profile-img {
+    height: 250px;
+    width: 250px; 
+}
+
+.profile-caption {
+    padding: 10px; 
+}

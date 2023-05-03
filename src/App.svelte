@@ -9,6 +9,7 @@
 	import ContactPage from "./routes/ContactPage.svelte";
 	import PeoplePage from "./routes/PeoplePage.svelte";
 	import ShowCasePage from "./routes/ShowCasePage.svelte";
+	import TeamPage from "./routes/TeamPage.svelte"; 
 	import Footer from "./Components/Footer.svelte";
 
 	// Takes care of the routing
@@ -28,7 +29,8 @@
 		<Route path="/home"><HomePage /></Route>
 		<Route path="/about"><AboutPage /></Route>
 		<Route path="/contact"><ContactPage /></Route>
-		<Route path="/people"><PeoplePage /></Route>
+		<!-- <Route path="/people"><PeoplePage /></Route> -->
+		<Route path="/people"><TeamPage/></Route>
 		<Route path="/showcase"><ShowCasePage /></Route>
 		<Route path="/*"><HomePage /></Route>
 		<Route path="/"><HomePage /></Route>
