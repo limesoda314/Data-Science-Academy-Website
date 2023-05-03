@@ -120,7 +120,6 @@
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_edgar.jpg" loading="lazy" alt="Edgar">
         <div class="profile-caption">
-
             <h2>Edgarventura Melendrez</h2>
             <br/>
             <h4>Third-year Computer Science Student at UC Riverside</h4>
@@ -136,7 +135,6 @@
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_chad.jpg" loading="lazy" alt="Chad">
         <div class="profile-caption">
-
             <h2>Chad Andrews</h2>
             <br/>
             <h4>Forth-year Computer Science Student at UC Riverside</h4>
@@ -149,7 +147,6 @@
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_ethan.jpg" loading="lazy" alt="Ethan">
         <div class="profile-caption">
-
             <h2>Ethan Tran</h2>
             <br/>
             <h4>First-year Computer Science Student at UC Riverside</h4>
@@ -157,8 +154,5 @@
                 
             </p>
         </div>
-
     </ProfileCard>
-    
-
 </ProfileContainer>
