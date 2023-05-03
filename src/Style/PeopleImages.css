@@ -1,0 +1,6 @@
+.peopleimage {
+    width: 100%;
+    height: auto;
+    user-select: none;
+    pointer-events: none;
+}
