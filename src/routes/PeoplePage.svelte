@@ -9,11 +9,11 @@
 
 <ContainerCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_paea.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 <h2>Paea LePendu</h2>
                 <br/>
                 <h4>Assistant Professor at UC Riverside</h4>
@@ -24,15 +24,15 @@
                     Clinical Innovation focusing on health analytics for the indigent, and he co-founded a health analytics company in Silicon
                     Valley that secured $2M in venture seed funding.
                 </p>
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_mariam.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 <h2>Mariam Salloum</h2>
                 <br/>
                 <h4>Assistant Teaching Professor at UC Riverside</h4>
@@ -41,18 +41,18 @@
                     Claremont McKenna College and at Boston College. She has worked in the industry as Data Scientist and as a Member of the
                     Technical Staff. Her research area is in data integration, big data visualization, machine learning, and database management.
                 </p>
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
 </ContainerCol>
 
 <ContainerCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_shirin.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 <h2>Shirin Haji Amin Shirazi</h2>
                 <br/>
                 <h4>Ph.D. Candidate at UC Riverside</h4>
@@ -60,86 +60,86 @@
                     My research focus is on Computer Science Education. I am also interested in Data Analysis and Machine Learning and I received
                     My Bachelor of Science with a focus on knowledge discovery.
                 </p>
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_ann.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 test
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
 </ContainerCol>
 
 <ContainerCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_taneesha.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 test
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_cody.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 test
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
 </ContainerCol>
 
 <ContainerCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_ivan.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 test
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_edgar.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 test
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
 </ContainerCol>
 
 <ContainerCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_chad.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 test
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
     <ArticleCol>
-        <ContainerCol>
-            <ArticleCol>
+        <Container>
+            <Article>
                 <img class="peopleimage" src="/images/content/team_ethan.jpg" loading="lazy" alt="Placeholder">
-            </ArticleCol>
-            <ArticleCol>
+            </Article>
+            <Article>
                 test
-            </ArticleCol>
-        </ContainerCol>
+            </Article>
+        </Container>
     </ArticleCol>
 </ContainerCol>
