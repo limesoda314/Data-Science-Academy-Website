@@ -13,15 +13,16 @@
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_paea.jpg" loading="lazy" alt="Paea">
         <div class="profile-caption">
-
             <h2>Paea LePendu</h2>
             <br/>
             <h4>Assistant Professor at UC Riverside</h4>
             <p>
-                Dr. LePendu's research is in Biomedical Informatics and currently focuses on AI in medicine. He previously worked
-                as a scientist at Stanford University in large-scale text analytics for electronic medical records and became known
-                for advancing the state of the art in pharmacovigilance. He was Director of Data Science for the Parkland Center for
-                Clinical Innovation focusing on health analytics for the indigent, and he co-founded a health analytics company in Silicon
+                Dr. LePendu's research is in Biomedical Informatics and currently focuses
+                on AI in medicine. He previously worked as a scientist at Stanford University
+                in large-scale text analytics for electronic medical records and became known
+                for advancing the state of the art in pharmacovigilance. He was Director of
+                Data Science for the Parkland Center for Clinical Innovation focusing on health
+                analytics for the indigent, and he co-founded a health analytics company in Silicon
                 Valley that secured $2M in venture seed funding.
             </p>
         </div>
@@ -33,17 +34,17 @@
             <br/>
             <h4>Assistant Teaching Professor at UC Riverside</h4>
             <p>
-                Dr. Salloum received her Ph.D. from UCR (advisor Vassilis Tsotras). Prior to joining UCR, she was a Visiting Professor at
-                Claremont McKenna College and at Boston College. She has worked in the industry as Data Scientist and as a Member of the
-                Technical Staff. Her research area is in data integration, big data visualization, machine learning, and database management.
+                Dr. Salloum received her Ph.D. from UCR (advisor Vassilis Tsotras). Prior to
+                joining UCR, she was a Visiting Professor at Claremont McKenna College and at
+                Boston College. She has worked in the industry as Data Scientist and as a Member
+                of the Technical Staff. Her research area is in data integration, big data
+                visualization, machine learning, and database management.
             </p>
         </div>
-
     </ProfileCard>
-
 </ProfileContainer>
+
 <ProfileContainer>
-    
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_shirin.jpg" loading="lazy" alt="Shirin">
         <div class="profile-caption">
@@ -51,8 +52,9 @@
                 <br/>
                 <h4>Ph.D. Candidate at UC Riverside</h4>
                 <p>
-                    My research focus is on Computer Science Education. I am also interested in Data Analysis and Machine Learning and I received
-                    My Bachelor of Science with a focus on knowledge discovery.
+                    My research focus is on Computer Science Education. I am also interested in Data
+                    Analysis and Machine Learning and I received my Bachelor of Science with a focus
+                    on knowledge discovery.
                 </p>
             
         </div>
@@ -67,7 +69,9 @@
             <h4>Third-year Computer Science Student at UC Riverside</h4>
             <p>
                 Third-year Computer Science Student at UC Riverside
-                I am a junior CS student looking forward to applying my technical skills for social good! I have been a DSA Leader for 2 years now, and I always enjoy talking to folks who want to learn more about Data Science! 
+                I am a junior CS student looking forward to applying my technical skills for social good! I
+                have been a DSA Leader for 2 years now, and I always enjoy talking to folks who want to learn
+                more about Data Science! 
 
                 
             </p>
@@ -82,11 +86,13 @@
             <br/>
             <h4>Third-year Computer Science Student at UC Riverside</h4>
             <p>
-                Interested in learning new Computer Science concepts through activities and internships. I excel at compiling many factors intuitively to form a plan, then sticking to it with confidence and determination. Experienced in object-oriented programming, front and back-end website development, algorithms, and data science. 
+                Interested in learning new Computer Science concepts through activities and internships. I excel
+                at compiling many factors intuitively to form a plan, then sticking to it with confidence and
+                determination. Experienced in object-oriented programming, front and back-end website development,
+                algorithms, and data science. 
                 
             </p>
         </div>
-
     </ProfileCard>
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_ivan.jpg" loading="lazy" alt="Ivan">
@@ -96,12 +102,15 @@
             <br/>
             <h4>Third-year Computer Science Student at UC Riverside</h4>
             <p>
-                I am a Computer Science student at the University of California, Riverside. I enjoy challenges! I am part of Professor Paea LePendu's research team. We are applying many of the Data Science concepts that we learn in DSA in our research lab. I am excited to be part of this Data Science journey. 
-               
+                I am a Computer Science student at the University of California, Riverside. I enjoy challenges! I am
+                part of Professor Paea LePendu's research team. We are applying many of the Data Science concepts that
+                we learn in DSA in our research lab. I am excited to be part of this Data Science journey. 
             </p>
         </div>
-
     </ProfileCard>
+</ProfileContainer>
+
+<ProfileContainer>
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_ann.jpg" loading="lazy" alt="Ann">
         <div class="profile-caption">
@@ -111,7 +120,8 @@
             <h4>Third-year Computer Science Student at UC Riverside</h4>
             <p>
                 Third-year Computer Science Student at UC Riverside
-                I enjoy learning about new topics and discussing them with friends. I am excited to see what computer science has to offer and I hope to meet new friends and mentors! 
+                I enjoy learning about new topics and discussing them with friends. I am excited to see what computer science
+                has to offer and I hope to meet new friends and mentors! 
                 
             </p>
         </div>
@@ -130,7 +140,6 @@
                 given too me. And I am glad to be able to give back to my community in the same ways that helped me!
             </p>
         </div>
-
     </ProfileCard>
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_chad.jpg" loading="lazy" alt="Chad">
@@ -142,7 +151,6 @@
                 
             </p>
         </div>
-
     </ProfileCard>
     <ProfileCard>
         <img class="profile-img" src="/images/content/team_ethan.jpg" loading="lazy" alt="Ethan">
@@ -151,7 +159,9 @@
             <br/>
             <h4>First-year Computer Science Student at UC Riverside</h4>
             <p>
-                
+                Hey y'all! I'm a first year Data Science major at UCR. I'm really interested in deep learning and especially data
+                analysis to find solutions to different kinds of problems. I joined DSA to teach others about Data Science and help
+                those around my community!
             </p>
         </div>
     </ProfileCard>

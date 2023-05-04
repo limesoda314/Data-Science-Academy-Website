@@ -7,7 +7,6 @@
 	import HomePage from "./routes/HomePage.svelte";
 	import AboutPage from "./routes/AboutPage.svelte";
 	import ContactPage from "./routes/ContactPage.svelte";
-	import PeoplePage from "./routes/PeoplePage.svelte";
 	import ShowCasePage from "./routes/ShowCasePage.svelte";
 	import TeamPage from "./routes/TeamPage.svelte"; 
 	import Footer from "./Components/Footer.svelte";
@@ -29,7 +28,6 @@
 		<Route path="/home"><HomePage /></Route>
 		<Route path="/about"><AboutPage /></Route>
 		<Route path="/contact"><ContactPage /></Route>
-		<!-- <Route path="/people"><PeoplePage /></Route> -->
 		<Route path="/people"><TeamPage/></Route>
 		<Route path="/showcase"><ShowCasePage /></Route>
 		<Route path="/*"><HomePage /></Route>
