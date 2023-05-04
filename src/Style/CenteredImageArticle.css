@@ -1,0 +1,17 @@
+.centeredimagearticle {
+	color: black;
+    padding: 20px; 
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+	background-color: white;
+	font-size: 20px;
+	width: 50%;
+    margin-left: 25%;
+}
+
+@media (max-width: 1000px)
+{
+	.articleCol {
+    	margin-left: 0px;
+		margin-right: 0px;
+	}
+}
