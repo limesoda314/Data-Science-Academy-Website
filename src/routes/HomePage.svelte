@@ -180,3 +180,35 @@
 		</center>
 	</ArticleCol>
 </ContainerCol>
+
+<ContainerCol>
+	<ArticleCol>
+		<center>
+			<h2>Testimonial</h2>
+			<br/>
+			<center>
+				<p><b>"</b></p>
+				<p>
+					I would like to thank the founder and sponsors of this program as I think it is a good way to give students
+					exposure to the field. I may find a new passion that without this program, may not have been discovered. 
+				</p>
+				<p><b>"</b></p>
+			</center>
+		</center>
+	</ArticleCol>
+
+	<ArticleCol>
+		<center>
+			<h2>Testimonial</h2>
+			<br/>
+			<center>
+				<p><b>"</b></p>
+				<p>
+					Thank you for providing students like me the opportunity to expand our knowledge and learn more about the
+					applications of data science.
+				</p>
+				<p><b>"</b></p>
+			</center>
+		</center>
+	</ArticleCol>
+</ContainerCol>
