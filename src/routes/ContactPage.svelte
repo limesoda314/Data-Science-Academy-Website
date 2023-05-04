@@ -22,4 +22,16 @@
         <br/>
         Riverside, CA 92521
     </Article>
+
+    <Article>
+        <h3>Data Science Academy Email</h3>
+        <br/>
+        <p>
+            Please reach out here with <u>any</u> questions having to do with the Data Science Academy.
+        </p>
+        <br/>
+        <p>
+            <b>dsa.leaders.ucr@gmail.com</b>
+        </p>
+    </Article>
 </Container>
